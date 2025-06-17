@@ -30,7 +30,7 @@
 
 ## 🚀 Projects
 
-### 🔗 [CarCaddy - Car Rental Management System](https://your-live-website-link.com)
+### 🔗 [CarCaddy - Car Rental Management System]([https://your-live-website-link.com](https://drive.google.com/file/d/1kD0kZlLNxhumRQEM40assw6vrUdT51Qj/view))
 *Infosys Internship | Team Project | Dec 2024 - Feb 2025*
 
 - Full-Stack system using Spring Boot, Thymeleaf, MySQL, Maven, Postman
@@ -44,7 +44,7 @@
 
 ---
 
-### 🔗 [MockMate - AI Interview Slot Booking Platform](https://your-mockmate-link.com)
+### 🔗 [MockMate - AI Interview Slot Booking Platform]([https://your-mockmate-link.com](https://mockmate-interview-platform.netlify.app/))
 *Self Project | May 2025 - June 2025*
 
 - Developed with React.js, Node.js, MongoDB, Nodemailer, REST APIs
@@ -57,7 +57,7 @@
 
 ---
 
-### 🔗 [Climate Debt Analyzer](https://your-climate-debt-analyzer-link.com)
+### 🔗 [Climate Debt Analyzer]([https://your-climate-debt-analyzer-link.com](https://climate-debt-analyzer-5ujgyrdcuggjjwnyvl5udj.streamlit.app/))
 *Jan 2025 - March 2025 | Assistant Prof. Ajit Kumar Pasayat (KIIT)*
 
 - Python, Streamlit, Pandas, Plotly, Seaborn, Matplotlib, Excel data processing
@@ -69,7 +69,7 @@
 
 ---
 
-### 🔗 [Portfolio Website - Anushka Verma](https://your-portfolio-link.com)
+### 🔗 [Portfolio Website - Anushka Verma]([https://your-portfolio-link.com](https://v-anushka05.github.io/anushka-portfolio/))
 *March 2025*
 
 - Built with Python, JavaScript, HTML, CSS, Bootstrap, GitHub
@@ -81,7 +81,7 @@
 
 ---
 
-### 🔗 [Vessel Process Parameter Monitoring (Frontend Page Development)](https://your-frontend-link.com)
+### 🔗 [Vessel Process Parameter Monitoring (Frontend Page Development)]
 *May 2024 - Jul 2024 | Technologist Shivam Mishra (OASA-SMC)*
 
 - Frontend Development for Industrial Automation Workspace
@@ -116,7 +116,7 @@
 
 - 📧 Email: 2205712@kiit.ac.in
 - 📞 Phone: +91-7258961346
-- 🔗 [LinkedIn](https://your-linkedin-link.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anushka-verma-352b4b278/)
 - 🔗 [GitHub](https://github.com/v-anushka05)
 
 ---
