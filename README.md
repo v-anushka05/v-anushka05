@@ -43,6 +43,7 @@
   <p>YOU CAN CHECK IT IN MY REPOSITORY</p>
 </p>
 
+
 ---
 
 ### 🔗 [MockMate - AI Interview Slot Booking Platform]([https://your-mockmate-link.com](https://mockmate-interview-platform.netlify.app/))
@@ -55,7 +56,7 @@
   <img src="https://your-image-link3.com" width="400"/>
   <img src="https://your-image-link4.com" width="400"/>
 </p>
-
+- 🔗 [GitHub Repository](https://github.com/v-anushka05/MockMate)
 ---
 
 ### 🔗 [Climate Debt Analyzer]([https://your-climate-debt-analyzer-link.com](https://climate-debt-analyzer-5ujgyrdcuggjjwnyvl5udj.streamlit.app/))
@@ -64,9 +65,11 @@
 - Python, Streamlit, Pandas, Plotly, Seaborn, Matplotlib, Excel data processing
 
 <p align="center">
-  <img src="https://your-image-link5.com" width="400"/>
-  <img src="https://your-image-link6.com" width="400"/>
+<!--   <img src="https://your-image-link5.com" width="400"/>
+  <img src="https://your-image-link6.com" width="400"/> -->
+- 🔗 [GitHub Repository](https://github.com/v-anushka05/climate-debt-analyzer)
 </p>
+
 
 ---
 
@@ -76,8 +79,9 @@
 - Built with Python, JavaScript, HTML, CSS, Bootstrap, GitHub
 
 <p align="center">
-  <img src="https://your-image-link7.com" width="400"/>
-  <img src="https://your-image-link8.com" width="400"/>
+<!--   <img src="https://your-image-link7.com" width="400"/>
+  <img src="https://your-image-link8.com" width="400"/> -->
+- 🔗 [GitHub Repository](https://github.com/v-anushka05/anushka-portfolio)
 </p>
 
 ---
