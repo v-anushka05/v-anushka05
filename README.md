@@ -92,8 +92,9 @@
 - Frontend Development for Industrial Automation Workspace
 
 <p align="center">
-  <img src="https://your-image-link9.com" width="400"/>
-  <img src="https://your-image-link10.com" width="400"/>
+  ![Screenshot 1](https://github.com/v-anushka05/Screenshot%202024-07-09%20172408.png?raw=true)
+  ![Screenshot 2](https://github.com/v-anushka05/Screenshot%202025-06-08%20151434.png?raw=true)
+  ![Screenshot 3](https://github.com/v-anushka05/Screenshot%202025-06-08%20151703.png?raw=true)
 </p>
 
 ---
