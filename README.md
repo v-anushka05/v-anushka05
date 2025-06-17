@@ -38,8 +38,9 @@
 - Led 20+ Agile standups as Scrum Master; optimized API response time by 30%
 
 <p align="center">
-  <img src="https://your-image-link1.com" width="400"/>
-  <img src="https://your-image-link2.com" width="400"/>
+<!--   <img src="https://your-image-link1.com" width="400"/>
+  <img src="https://your-image-link2.com" width="400"/> -->
+  <p>YOU CAN CHECK IT IN MY REPOSITORY</p>
 </p>
 
 ---
