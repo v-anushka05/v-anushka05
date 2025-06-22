@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anushka Verma!
 
-🎓 3rd-year Computer Science Engineering Student at KIIT University, Bhubaneswar  
+🎓 Final-year Computer Science Engineering Student at KIIT University, Bhubaneswar  
 💻 Passionate about Full-Stack Development, Backend Engineering, AI, Open Source & Cloud Computing  
 🌱 Always learning and building 🚀
 
